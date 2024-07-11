@@ -1,4 +1,4 @@
-## Order of entries in this map *does* matter for the resolved labels
+/^src<<\}## Order of entries in this map *does* matter for the resolved labels
 ## earlier entries override later entries
 subSystemLabels:
   # src subsystems
